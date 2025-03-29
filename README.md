@@ -14,7 +14,7 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/sufyankhan2412/tic-tac-toe.git
    ```
 2. Navigate into the project directory:
    ```sh
