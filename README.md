@@ -31,36 +31,10 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players
 │-- 📄 README.md         # Project documentation
 ```
 
-## How to Upload This Project to GitHub
-1. Initialize a new Git repository in your project folder:
-   ```sh
-   git init
-   ```
-2. Add all project files to the repository:
-   ```sh
-   git add .
-   ```
-3. Commit the changes:
-   ```sh
-   git commit -m "Initial commit: Tic-Tac-Toe game"
-   ```
-4. Create a new repository on GitHub (e.g., `tic-tac-toe`).
-5. Link your local repository to GitHub:
-   ```sh
-   git remote add origin https://github.com/yourusername/tic-tac-toe.git
-   ```
-6. Push the code to GitHub:
-   ```sh
-   git push -u origin main
-   ```
-
 ## Play the Game
 Simply open `index.html` in a browser to start playing!
 
 ## License
 This project is open-source and available for modification and distribution.
 
----
-
-Replace `yourusername` with your actual GitHub username before running the commands!
 
